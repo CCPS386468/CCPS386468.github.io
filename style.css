@@ -2,19 +2,31 @@ p{}
 
 ul{color:#25e8cb;
   font-family:Garamond;
+  font-size: 16pt;
 }
 
 ol{
+  font-size:14pt;
+  color:#5F9EA0;
+  font-family:Garamond;
 }
 
-h1{
+h1{font-size:14pt;
+  color:#5F9EA0;
+  font-family:Garamond
 }
 
-header{
+header{font-size: 14pt;
+  color:#6495ED;
+  font-family:Garamond;
 }
 
-body{
+body{font-size:14pt;
+  color:#008B8B;
+  font-family: Garamond;
 }
 
-footer{
+footer{font-family:Garamond;
+  font-size:14pt;
+  color:#8FBC8F;
 }
